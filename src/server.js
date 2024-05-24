@@ -16,7 +16,6 @@ const io = socketIo(server, {
 });
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-console.log("OpenAI API Key:", OPENAI_API_KEY);
 
 io.on("connection", (socket) => {
   console.log("User has connected.");
