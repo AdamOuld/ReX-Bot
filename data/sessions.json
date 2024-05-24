@@ -1,55 +1,17 @@
 [
   {
-    "id": "_mn37l7l4n",
-    "date": "2024-05-24T15:26:24.115Z",
+    "id": "_wm77fd7pr",
+    "date": "2024-05-24T15:56:32.896Z",
     "messages": [
       {
         "text": "Hello",
         "type": "outgoing"
       },
       {
-        "text": "Hello! How can I help you with your career today?",
-        "type": "incoming"
-      },
-      {
-        "text": "How do I get a job",
-        "type": "outgoing"
-      },
-      {
-        "text": "To get a job, here are some steps you can follow:\n\n1. Identify your skills and interests: Consider what you are good at and what you enjoy doing. This will help you narrow down the type of jobs you should apply for.\n\n2. Update your resume: Make sure your resume is up to date and highlights your relevant experience and skills. Tailor your resume to each job you apply for.\n\n3. Search for job openings: Use online job boards, company websites, and networking to look for job openings in your field of interest.\n\n4. Prepare for interviews: Practice common interview questions and make sure you are familiar with the company you are interviewing with.\n\n5. Network: Reach out to friends, family, and former colleagues to let them know you are looking for a job. They may be able to provide you with job leads or recommendations.\n\n6. Follow up: After applying for a job or interviewing, make sure to follow up with a thank you email or note to reiterate your interest in the position.\n\nRemember, finding a job can take time and effort, so don't get discouraged if you face rejection along the way. Keep persevering and stay positive. Good luck in your job search!",
-        "type": "incoming"
-      },
-      {
-        "text": "How do I get a software engineering job",
-        "type": "outgoing"
-      },
-      {
-        "text": "To get a software engineering job, here are some specific steps you can take:\n\n1. Education and Skills: Make sure you have the necessary education and skills for a software engineering position. A degree in computer science or a related field is often required. Additionally, having programming skills in languages such as Java, Python, C++, or JavaScript is important.\n\n2. Build a Portfolio: Create a portfolio showcasing your projects, coding samples, and any relevant work you have done. This will help demonstrate your skills to potential employers.\n\n3. Gain Experience: Consider doing internships, freelance work, or contributing to open-source projects to gain relevant experience in the software engineering field.\n\n4. Network: Attend software engineering meetups, conferences, and networking events to connect with professionals in the industry. Networking can help you learn about job opportunities and get referrals.\n\n5. Apply for Jobs: Search for software engineering job openings on online job boards, company websites, and through recruiting agencies. Tailor your resume and cover letter to each job you apply for to highlight your relevant skills and experience.\n\n6. Prepare for Interviews: Practice common software engineering interview questions, technical coding challenges, and be prepared to discuss your projects and experience in detail during interviews.\n\n7. Stay Updated: Keep up with the latest trends and technologies in the software engineering field. Continuous learning and staying updated on industry developments can help you stand out to employers.\n\nBy following these steps and staying proactive in your job search, you can increase your chances of landing a software engineering job. Good luck!",
-        "type": "incoming"
-      }
-    ]
-  },
-  {
-    "id": "_f0y1xvu8d",
-    "date": "2024-05-23T18:15:19.110Z",
-    "messages": [
-      {
-        "text": "Hello how do I get a job as a software engineer",
-        "type": "outgoing"
-      },
-      {
-        "text": "Hello! To get a job as a software engineer, here are some steps you can follow:\n\n1. Education: A bachelor's degree in computer science, software engineering, or a related field is often required for software engineering roles. Consider pursuing relevant courses or certifications to enhance your skills and qualifications.\n\n2. Build your skills: Develop strong programming skills in languages such as Java, Python, C++, or others commonly used in the industry. Familiarize yourself with software development tools and practices.\n\n3. Gain experience: Completing internships, working on personal projects, or contributing to open-source projects can help you gain practical experience and build your portfolio.\n\n4. Networking: Attend industry events, conferences, and meetups to connect with other professionals in the field. Networking can help you learn about job opportunities and get referrals.\n\n5. Prepare your resume and portfolio: Tailor your resume to highlight your relevant skills and experience. Create a portfolio showcasing your projects and demonstrating your abilities as a software engineer.\n\n6. Apply for jobs: Look for software engineering job openings that match your skills and experience. Customize your applications for each position and tailor your cover letter to highlight why you are a good fit for the role.\n\n7. Prepare for interviews: Practice coding challenges, technical interviews, and behavioral questions commonly asked in software engineering interviews. Be prepared to discuss your projects and problem-solving abilities.\n\nRemember, persistence and continuous learning are key in the field of software engineering. Best of luck in your job search!",
-        "type": "incoming"
-      },
-      {
-        "text": "Thanks",
-        "type": "outgoing"
-      },
-      {
-        "text": "You're welcome! If you have any more questions or need further advice on your career journey as a software engineer, feel free to ask. Good luck with your job search!",
+        "text": "Hello! How can I assist you with your career today?",
         "type": "incoming"
       }
     ],
-    "isSessionEnded": true
+    "isSessionEnded": false
   }
 ]

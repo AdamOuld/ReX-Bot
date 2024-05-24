@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const http = require("http");
 const socketIo = require("socket.io");
@@ -14,8 +15,8 @@ const io = socketIo(server, {
   },
 });
 
-const OPENAI_API_KEY =
-  "sk-proj-yZVKPXLqwNSWcIAS0gtgT3BlbkFJED8iEGNofNF2k3OLJOuV";
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+console.log("OpenAI API Key:", OPENAI_API_KEY);
 
 io.on("connection", (socket) => {
   console.log("User has connected.");
