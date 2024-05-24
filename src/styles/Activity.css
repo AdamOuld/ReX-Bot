@@ -1,0 +1,111 @@
+/* src/styles/Activity.css */
+
+/* General layout for the activity page */
+.activity {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #ffffff;
+    padding: 10px; /* Padding to ensure some space around the content */
+  }
+  
+  /* Navigation bar at the top of the activity page */
+  .activity-nav {
+    display: flex;
+    flex-wrap: wrap; /* Allows wrapping on smaller screens */
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  .activity-nav h2 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .back-icon {
+    cursor: pointer;
+  }
+  
+  /* Container for the bar chart */
+  .activity-bar {
+    width: 100%; /* Adjusted width to fill the container */
+    max-width: 600px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 2px solid #6a0dad;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+    box-sizing: border-box; /* Ensures padding and border are included in width calculation */
+  }
+  
+  /* Container for individual chat sessions */
+  .chat-activity {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    max-width: 600px;
+    margin-bottom: 20px;
+  }
+  
+  /* Individual session card */
+  .session {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #6a0dad;
+    border-radius: 5px;
+    background-color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .session:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .session img {
+    border-radius: 50%;
+  }
+  
+  .session-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .session-info h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .session-info p {
+    margin: 5px 0 0;
+    color: #666;
+  }
+  
+  /* Responsive Design */
+  @media only screen and (max-width: 768px) {
+    .activity-nav {
+      width: 90%;
+    }
+  
+    .activity-bar,
+    .chat-activity {
+      width: 90%;
+      padding: 10px;
+    }
+  
+    .session {
+      padding: 8px;
+      margin-bottom: 8px;
+    }
+  }
+  

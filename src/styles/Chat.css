@@ -1,0 +1,97 @@
+
+.chat-page {
+    display: flex;
+    justify-content: center;
+}
+.chat {
+    margin-top: 200px;
+    width: 400px;
+    height: 600px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+  }
+
+  .chat-header {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+  }
+
+  .chat-header .rex-image {
+    border-radius: 50%;
+    padding: 5px;
+  }
+  
+  /* Message Area */
+  .message-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 10px;
+    overflow-y: scroll;
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Message */
+  .message-container div {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 75%;
+    word-wrap: break-word;
+  }
+  
+  /* Outgoing Message */
+  .outgoing-message {
+    background-color: purple;
+    color: white;
+    align-self:flex-end
+  }
+  
+  /* Incoming Message */
+  .incoming-message {
+    background-color: #f1f1f1;
+    color: black;
+  }
+  
+  
+  
+  /* Input Field */
+  .user-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  /* Send Button */
+  button {
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: violet;
+  }
+
+  .end-session:hover {
+    cursor: pointer;
+  }
+
+  .typing-indicator {
+    color: purple;
+    margin-left: 5px;
+  }
+
+  .back-icon:hover {
+    cursor: pointer;
+  }
+
