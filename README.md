@@ -14,13 +14,13 @@ React.js, Node.js, Axios, Material UI
 
 ![HomePage](./src/assets/home.png)
 
-### Chat Window with openAI response
+### Chat Window with OpenAI response
 
 ![ChatPage](./src/assets/chat.png)
 
 ### Ended Chats List
 
-![EndedChatsPage](./src//assets/EndedChats.png)
+![EndedChats](./src/assets/EndedChats.png)
 
 ### Activity Page
 
