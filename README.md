@@ -20,11 +20,11 @@ React.js, Node.js, Axios, Material UI
 
 ### Ended Chats List
 
-![EndedChats](./src/assets/EndedChats.png)
+![EndedChats](./src/assets/endedchats.png)
 
 ### Activity Page
 
-![ActivityPage](./src/assets/ActivityPage.png)
+![ActivityPage](./src/assets/activitypage.png)
 
 ## Loom Video
 
