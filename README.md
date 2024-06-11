@@ -26,6 +26,4 @@ React.js, Node.js, Axios, Material UI
 
 ![ActivityPage](./src/assets/activitypage.png)
 
-## Loom Video
 
-Click [here](https://www.loom.com/share/ddd4ecbb724840efb0f3cda5a9167e42) to watch the demonstration.
