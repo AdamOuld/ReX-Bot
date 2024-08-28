@@ -1,4 +1,4 @@
-# CosmoChat UI
+# ReXBot
 
 ## Description
 
